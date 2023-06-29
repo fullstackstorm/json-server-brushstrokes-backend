@@ -1,52 +1,120 @@
 {
-  "toys": [
+  "gallery": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "name": "Sunflowers",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vincent_Willem_van_Gogh_127.jpg/800px-Vincent_Willem_van_Gogh_127.jpg",
+      "year": "1888",
+      "artist": "Vincent Willem van Gogh"
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "name": "Bedroom in Arles",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg/756px-Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg",
+      "year": "1888",
+      "artist": "Vincent Willem van Gogh"
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "name": "The Starry Night",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/757px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "year": "1889",
+      "artist": "Vincent Willem van Gogh"
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "name": "Wheatfield with Crows",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vincent_Van_Gogh_-_Wheatfield_with_Crows.jpg/800px-Vincent_Van_Gogh_-_Wheatfield_with_Crows.jpg",
+      "year": "1890",
+      "artist": "Vincent Willem van Gogh"
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "name": "Greece on the ruins of Missolonghi",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Eug%C3%A8ne_Ferdinand_Victor_Delacroix_017.jpg/398px-Eug%C3%A8ne_Ferdinand_Victor_Delacroix_017.jpg",
+      "year": "1826",
+      "artist": "Eugène Delacroix"
     },
     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "name": "The Murder of the Bishop of Liège",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Eug%C3%A8ne_Ferdinand_Victor_Delacroix_013.jpg/761px-Eug%C3%A8ne_Ferdinand_Victor_Delacroix_013.jpg",
+      "year": "1829",
+      "artist": "Eugène Delacroix"
     },
     {
       "id": 7,
-      "name": "Hamm",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "name": "The Murder of the Bishop of Liège",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg/747px-Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg",
+      "year": "1830",
+      "artist": "Eugène Delacroix"
     },
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "name": "Christ on the Sea of Galilee",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Eug%C3%A8ne_Delacroix_-_Christ_on_the_Sea_of_Galilee_-_Google_Art_Project_%2827796212%29.jpg",
+      "year": "1854",
+      "artist": "Eugène Delacroix"
+    },
+    {
+      "id": 9,
+      "name": "Oath of the Horatii",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Jacques-Louis_David%2C_Le_Serment_des_Horaces.jpg",
+      "year": "1784",
+      "artist": "Jacques-Louis David"
+    }
+    ,
+    {
+      "id": 10,
+      "name": "The Lictors Bring to Brutus the Bodies of His Sons",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/David_Brutus.jpg",
+      "year": "1854",
+      "artist": "Jacques-Louis David"
+    }
+    ,
+    {
+      "id": 11,
+      "name": "Tennis Court Oath",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Le_Serment_du_Jeu_de_paume.jpg/800px-Le_Serment_du_Jeu_de_paume.jpg",
+      "year": "1789",
+      "artist": "Jacques-Louis David"
+    }
+    ,
+    {
+      "id": 12,
+      "name": "The Death of Marat",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2.jpg/466px-Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2.jpg",
+      "year": "1793",
+      "artist": "Jacques-Louis David"
+    }
+  ],
+  "artists": [
+    {
+      "id": 1,
+      "name": "Vincent Willem van Gogh",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg/474px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg",
+      "movement": "Post-Impressionism",
+      "born": "30 March 1853",
+      "died": "29 July 1890 (aged 37)",
+      "signature": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gogh%2C_Vincent_van_1853-1890_Signature.jpg/150px-Gogh%2C_Vincent_van_1853-1890_Signature.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Eugène Delacroix",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Eugene_delacroix.jpg/451px-Eugene_delacroix.jpg",
+      "movement": "Romanticism",
+      "born": "26 April 1798",
+      "died": "13 August 1863 (aged 65)",
+      "signature": "https://scriposigns.com/wp-content/uploads/2017/04/delacroix.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jacques-Louis David",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/David_Self_Portrait.jpg",
+      "movement": "Neoclassicism",
+      "born": "30 August 1748",
+      "died": "29 December 1825 (aged 77)",
+      "signature": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Signatur_Jacques-Louis_David.PNG"
     }
   ]
 }
