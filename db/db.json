@@ -30,7 +30,7 @@
     },
     {
       "id": 5,
-      "name": "Greece on the ruins of Missolonghi",
+      "name": "Greece on the Ruins of Missolonghi",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Eug%C3%A8ne_Ferdinand_Victor_Delacroix_017.jpg/398px-Eug%C3%A8ne_Ferdinand_Victor_Delacroix_017.jpg",
       "year": "1826",
       "artist": "Eugène Delacroix"
@@ -44,7 +44,7 @@
     },
     {
       "id": 7,
-      "name": "The Murder of the Bishop of Liège",
+      "name": "Liberty Leading the People",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg/747px-Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg",
       "year": "1830",
       "artist": "Eugène Delacroix"
@@ -62,24 +62,21 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Jacques-Louis_David%2C_Le_Serment_des_Horaces.jpg",
       "year": "1784",
       "artist": "Jacques-Louis David"
-    }
-    ,
+    },
     {
       "id": 10,
       "name": "The Lictors Bring to Brutus the Bodies of His Sons",
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/David_Brutus.jpg",
       "year": "1854",
       "artist": "Jacques-Louis David"
-    }
-    ,
+    },
     {
       "id": 11,
       "name": "Tennis Court Oath",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Le_Serment_du_Jeu_de_paume.jpg/800px-Le_Serment_du_Jeu_de_paume.jpg",
       "year": "1789",
       "artist": "Jacques-Louis David"
-    }
-    ,
+    },
     {
       "id": 12,
       "name": "The Death of Marat",
@@ -96,7 +93,8 @@
       "movement": "Post-Impressionism",
       "born": "30 March 1853",
       "died": "29 July 1890 (aged 37)",
-      "signature": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gogh%2C_Vincent_van_1853-1890_Signature.jpg/150px-Gogh%2C_Vincent_van_1853-1890_Signature.jpg"
+      "signature": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gogh%2C_Vincent_van_1853-1890_Signature.jpg/150px-Gogh%2C_Vincent_van_1853-1890_Signature.jpg",
+      "biography": "Vincent Willem van Gogh, a Dutch Post-Impressionist painter, is recognized as one of the most influential figures in Western art history. Despite struggling with depression and poverty, he created around 2,100 artworks in just 10 years, including 860 oil paintings. His bold use of colors, expressive brushwork, and dramatic style laid the foundation for modern art. Van Gogh's works encompassed landscapes, still lifes, portraits, and self-portraits. \nBorn into an upper-middle-class family, Van Gogh displayed artistic talent from a young age. He worked as an art dealer and turned to religion before pursuing painting in 1881. His early works showed little of the vibrant color palette that would define his later pieces. In 1886, he moved to Paris and encountered avant-garde artists who were rebelling against Impressionism. Van Gogh's style evolved, and his paintings grew brighter during his stay in Arles, France, in 1888. \nVan Gogh battled mental health issues and suffered from psychotic episodes. His friendship with Paul Gauguin ended abruptly after he mutilated his own ear. He spent time in psychiatric hospitals before his tragic death by suicide in 1890, at the age of 37. \nAlthough Van Gogh faced financial hardships and was not recognized during his lifetime, his artistic genius gained appreciation after his death. His work influenced the Fauvists and German Expressionists. Today, his paintings are among the most expensive ever sold, and the Van Gogh Museum in Amsterdam houses the largest collection of his art."
     },
     {
       "id": 2,
@@ -105,7 +103,8 @@
       "movement": "Romanticism",
       "born": "26 April 1798",
       "died": "13 August 1863 (aged 65)",
-      "signature": "https://scriposigns.com/wp-content/uploads/2017/04/delacroix.jpg"
+      "signature": "https://scriposigns.com/wp-content/uploads/2017/04/delacroix.jpg",
+      "biography": "Ferdinand Victor Eugène Delacroix (1798-1863) was a prominent French artist associated with the Romantic movement. He is widely recognized as a leader of the French Romantic school, deviating from the Neoclassical style embraced by his contemporary Ingres. \nDelacroix drew inspiration from the works of Rubens and painters of the Venetian Renaissance, prioritizing vibrant colors and dynamic compositions over precise outlines and meticulously sculpted forms. His mature works often featured dramatic and romantic themes, leading him to explore North Africa in search of exotic subject matter. Delacroix was influenced by the poet Lord Byron and shared a fascination with the sublime power of nature. His Romanticism, however, was characterized by an individualistic spirit, as he aimed to express passion with clarity rather than resorting to sentimentality or grandiosity. \nAlongside Ingres, Delacroix is considered one of the last influential figures of the old Masters of painting, and he holds the distinction of being among the few photographed during his time. Delacroix's expressive brushwork and his exploration of color's optical effects left a profound impact on the Impressionists, while his fascination with the exotic served as an inspiration for artists of the Symbolist movement. In addition to painting, Delacroix excelled as a muralist and lithographer, creating illustrations for works by Shakespeare, Walter Scott, and Johann Wolfgang von Goethe."
     },
     {
       "id": 3,
@@ -114,7 +113,39 @@
       "movement": "Neoclassicism",
       "born": "30 August 1748",
       "died": "29 December 1825 (aged 77)",
-      "signature": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Signatur_Jacques-Louis_David.PNG"
+      "signature": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Signatur_Jacques-Louis_David.PNG",
+      "biography": "Jacques-Louis David, a French painter associated with the Neoclassical style, was widely regarded as the foremost artist of his time. His works in the 1780s represented a shift from the frivolous Rococo style to a more austere and emotionally charged form of history painting, aligning with the moral climate of the final years of the Ancien Régime. \nDavid actively supported the French Revolution and formed a close bond with Maximilien Robespierre, playing a prominent role in shaping the arts during the French Republic. Following Robespierre's downfall, David found himself imprisoned but later aligned himself with Napoleon, who became the First Consul of France. During this period, David developed his distinctive Empire style, characterized by warm Venetian colors. \nAfter Napoleon's fall and the restoration of the Bourbon monarchy, David went into self-imposed exile first in Brussels and then in the United Kingdom of the Netherlands, where he resided until his death. He had a significant influence on the next generation of French artists, serving as a mentor to many and leaving a lasting impact on academic Salon painting in the early 19th century."
     }
-  ]
+  ],
+  "collection": [
+    {
+      "id": 1,
+      "name": "Sunflowers",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vincent_Willem_van_Gogh_127.jpg/800px-Vincent_Willem_van_Gogh_127.jpg",
+      "year": "1888",
+      "artist": "Vincent Willem van Gogh"
+    },
+    {
+      "id": 2,
+      "name": "Bedroom in Arles",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg/756px-Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg",
+      "year": "1888",
+      "artist": "Vincent Willem van Gogh"
+    },
+    {
+      "id": 3,
+      "name": "The Starry Night",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/757px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "year": "1889",
+      "artist": "Vincent Willem van Gogh"
+    },
+    {
+      "id": 4,
+      "name": "Wheatfield with Crows",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vincent_Van_Gogh_-_Wheatfield_with_Crows.jpg/800px-Vincent_Van_Gogh_-_Wheatfield_with_Crows.jpg",
+      "year": "1890",
+      "artist": "Vincent Willem van Gogh"
+    }
+  ],
+  "user": {}
 }
