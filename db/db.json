@@ -114,38 +114,9 @@
       "born": "30 August 1748",
       "died": "29 December 1825 (aged 77)",
       "signature": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Signatur_Jacques-Louis_David.PNG",
-      "biography": "Jacques-Louis David, a French painter associated with the Neoclassical style, was widely regarded as the foremost artist of his time. His works in the 1780s represented a shift from the frivolous Rococo style to a more austere and emotionally charged form of history painting, aligning with the moral climate of the final years of the Ancien Régime. \nDavid actively supported the French Revolution and formed a close bond with Maximilien Robespierre, playing a prominent role in shaping the arts during the French Republic. Following Robespierre's downfall, David found himself imprisoned but later aligned himself with Napoleon, who became the First Consul of France. During this period, David developed his distinctive Empire style, characterized by warm Venetian colors. \nAfter Napoleon's fall and the restoration of the Bourbon monarchy, David went into self-imposed exile first in Brussels and then in the United Kingdom of the Netherlands, where he resided until his death. He had a significant influence on the next generation of French artists, serving as a mentor to many and leaving a lasting impact on academic Salon painting in the early 19th century."
+      "biography":"Jacques-Louis David, a French painter associated with the Neoclassical style, was widely regarded as the foremost artist of his time. His works in the 1780s represented a shift from the frivolous Rococo style to a more austere and emotionally charged form of history painting, aligning with the moral climate of the final years of the Ancien Régime. \nDavid actively supported the French Revolution and formed a close bond with Maximilien Robespierre, playing a prominent role in shaping the arts during the French Republic. Following Robespierre's downfall, David found himself imprisoned but later aligned himself with Napoleon, who became the First Consul of France. During this period, David developed his distinctive Empire style, characterized by warm Venetian colors. \nAfter Napoleon's fall and the restoration of the Bourbon monarchy, David went into self-imposed exile first in Brussels and then in the United Kingdom of the Netherlands, where he resided until his death. He had a significant influence on the next generation of French artists, serving as a mentor to many and leaving a lasting impact on academic Salon painting in the early 19th century."
     }
   ],
-  "collection": [
-    {
-      "id": 1,
-      "name": "Sunflowers",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vincent_Willem_van_Gogh_127.jpg/800px-Vincent_Willem_van_Gogh_127.jpg",
-      "year": "1888",
-      "artist": "Vincent Willem van Gogh"
-    },
-    {
-      "id": 2,
-      "name": "Bedroom in Arles",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg/756px-Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg",
-      "year": "1888",
-      "artist": "Vincent Willem van Gogh"
-    },
-    {
-      "id": 3,
-      "name": "The Starry Night",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/757px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
-      "year": "1889",
-      "artist": "Vincent Willem van Gogh"
-    },
-    {
-      "id": 4,
-      "name": "Wheatfield with Crows",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vincent_Van_Gogh_-_Wheatfield_with_Crows.jpg/800px-Vincent_Van_Gogh_-_Wheatfield_with_Crows.jpg",
-      "year": "1890",
-      "artist": "Vincent Willem van Gogh"
-    }
-  ],
+  "collection": {},
   "user": {}
 }
